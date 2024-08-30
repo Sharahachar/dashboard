@@ -1,1 +1,1 @@
-# dashboard
+npm install recharts
